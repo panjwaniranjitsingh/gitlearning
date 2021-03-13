@@ -1,0 +1,6 @@
+on unity projects push only these folder
+Assets
+Packages
+ProjectSettings
+
+ignore other folders
